@@ -1,0 +1,3 @@
+{"id":"S001","text":"星河制造宣布在苏州建设智能工厂，预计投入1200万元，项目将使用机器视觉和预测性维护。","reference":{"subject":"星河制造","location":"苏州","amount_wan":1200,"technologies":["机器视觉","预测性维护"]}}
+{"id":"S002","text":"云帆基金会披露新的公益计划，计划使用自然语言处理整理公开文献，实施地点与预算尚未公布。","reference":{"subject":"云帆基金会","location":"not_stated","amount_wan":"not_stated","technologies":["自然语言处理"]}}
+{"id":"S003","text":"青岚物流表示将在成都升级调度中心，投入800万元，引入路径优化系统。","reference":{"subject":"青岚物流","location":"成都","amount_wan":800,"technologies":["路径优化"]}}

@@ -1,0 +1,7 @@
+{
+  "base_url": "https://example.com/v1",
+  "model": "replace-with-model-name",
+  "api_key_env": "MODEL_API_KEY",
+  "temperature": 0,
+  "timeout_s": 180
+}

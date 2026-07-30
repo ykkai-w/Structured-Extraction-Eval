@@ -1,0 +1,9 @@
+{
+  "missing_values": ["not_stated", ""],
+  "fields": [
+    {"name": "subject", "type": "string", "evidence": true},
+    {"name": "location", "type": "string", "evidence": true},
+    {"name": "amount_wan", "type": "number", "evidence": true},
+    {"name": "technologies", "type": "string_list", "evidence": true}
+  ]
+}

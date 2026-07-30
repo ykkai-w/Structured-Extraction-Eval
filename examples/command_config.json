@@ -1,0 +1,5 @@
+{
+  "command": ["python", "examples/mock_model.py"],
+  "model": "local-demo",
+  "timeout_s": 30
+}
